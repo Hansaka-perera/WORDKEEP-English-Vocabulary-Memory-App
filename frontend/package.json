@@ -1,0 +1,10 @@
+{
+  "name": "wordkeep-frontend",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
